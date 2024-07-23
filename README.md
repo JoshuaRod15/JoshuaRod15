@@ -3,6 +3,10 @@
 
 👨‍💻 En GitHub, encontrarás varios de mis proyectos que reflejan mi pasión y habilidad para el desarrollo de software y web. Estos proyectos muestran mi capacidad para trabajar tanto de manera independiente como en equipo, siempre con un enfoque en la calidad y la innovación.
 
+🔧 Tecnologías y Herramientas
+Utilizo una variedad de tecnologías y herramientas para el desarrollo de software, tanto en el front-end como en el back-end. Aquí están algunas de las principales:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 📫 ¿Quieres colaborar? ¡No dudes en conectarte conmigo aquí en GitHub o a través de mi correo electrónico: joshuarodriguez190622@gmail.com!
 <!--
 **JoshuaRod15/JoshuaRod15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
